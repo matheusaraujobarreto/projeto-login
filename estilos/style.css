@@ -34,7 +34,7 @@ section#login{
     transform: translate(-50%,-50%);
 }
 div#imagem{
-    background: #bd0016 url(/imagens/teste\ de\ imagem.jpg);
+    background: #bd0016 url(/imagens/imagem-projeto.jpeg);
     height: 200px;
     background-size: cover;
     display: block;
