@@ -34,7 +34,7 @@ section#login{
     transform: translate(-50%,-50%);
 }
 div#imagem{
-    background: #bd0016 url(/Darth\ Vader\ 1.jpeg);
+    background: #bd0016 url(/imagens/Darth\ Vader\ 1.jpeg);
     height: 200px;
     background-size: cover;
     display: block;
